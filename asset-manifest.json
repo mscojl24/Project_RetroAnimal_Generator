@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Project_RetroAnimal_Generator/static/css/main.3735e30f.css",
-    "main.js": "/Project_RetroAnimal_Generator/static/js/main.5c6e7b87.js",
+    "main.js": "/Project_RetroAnimal_Generator/static/js/main.30c7cc76.js",
     "static/media/CookieRun Black.ttf": "/Project_RetroAnimal_Generator/static/media/CookieRun Black.00ee0089b5b041ab4237.ttf",
     "static/media/Maplestory Bold.ttf": "/Project_RetroAnimal_Generator/static/media/Maplestory Bold.e39287220e971b277c0e.ttf",
     "static/media/pen.cur": "/Project_RetroAnimal_Generator/static/media/pen.c56291f10e01824520e0.cur",
     "index.html": "/Project_RetroAnimal_Generator/index.html",
     "main.3735e30f.css.map": "/Project_RetroAnimal_Generator/static/css/main.3735e30f.css.map",
-    "main.5c6e7b87.js.map": "/Project_RetroAnimal_Generator/static/js/main.5c6e7b87.js.map"
+    "main.30c7cc76.js.map": "/Project_RetroAnimal_Generator/static/js/main.30c7cc76.js.map"
   },
   "entrypoints": [
     "static/css/main.3735e30f.css",
-    "static/js/main.5c6e7b87.js"
+    "static/js/main.30c7cc76.js"
   ]
 }
